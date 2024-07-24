@@ -4,7 +4,7 @@
 </p>
 
 <h6 align="center">
-Suckless TUI YouTube-Music Player
+Suckless CLI YouTube-Music Player
     </h6>
 
 <h1></h1>
