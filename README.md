@@ -54,7 +54,7 @@ make
 
 ### TODO
 - Add playlist support
-- Handle songs end
+- stop when the song ends
 
 ### Contributing
 If you'd like to contribute, you can submit a [pull request](https://github.com/rdWei/mousice/pulls) with your changes or open an [issue](https://github.com/rdWei/mousice/pulls) to report any problems or feature requests.
