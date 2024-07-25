@@ -41,7 +41,7 @@ int main(int argc, char * argv[]) {
 
   char command[1024]; 
 
-  snprintf(command, sizeof(command), "wget -O - %s 2>/dev/null | chafa --align=left --view-size=50x50 > temp", imgLink);
+  snprintf(command, sizeof(command), "wget -O - %s 2>/dev/null | chafa --view-size=50x50 > temp", imgLink);
 
   system(command);
 
