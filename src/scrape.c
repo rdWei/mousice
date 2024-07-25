@@ -80,7 +80,7 @@ char * GetHrefFromSearchUrl(const char * searchUrl) {
     }
 
     if (line == NULL) {
-      strcpy(url, "https://gofuckyourself.com");
+      //TODO: handle error
     }
   }
 
