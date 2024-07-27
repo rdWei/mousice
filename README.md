@@ -36,8 +36,9 @@ Suckless CLI YouTube-Music Player
 To run this application, you need to install the following dependencies:
 
 - `mpv` - A versatile media player.
-- `chafa` - A command-line tool for converting images to ASCII/ANSI art.
+- `chafa` (version 1.14.0 or later) - A command-line tool for converting images to ASCII/ANSI art.
 - `yt-dlp` - A YouTube video downloader with additional features.
+- `curl` - A command-line tool for transferring data with URLs.
 
 ### Compile
 
