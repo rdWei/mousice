@@ -54,9 +54,8 @@ make
 `./mousice bohemian_rhapsody`
 
 ### TODO
-- [ ] Add playlist support
-- [ ] Add create-local-playlist support
-- [ ] Stop when the song end
-
+- [ ] Playlist support
+- [ ] Close program when the song end
+- [ ] Change [invidius](https://docs.invidious.io/instances/) server one is offline
 ### Contributing
 If you'd like to contribute, you can submit a [pull request](https://github.com/rdWei/mousice/pulls) with your changes or open an [issue](https://github.com/rdWei/mousice/pulls) to report any problems or feature requests.
