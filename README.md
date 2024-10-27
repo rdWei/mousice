@@ -12,7 +12,7 @@ Suckless CLI YouTube-Music Player
 <br>
 
 <div style="display: inline;" align="center">
-    <a href="https://github.com/rdWei/rdWei/blob/main/donate.MD">
+    <a href="">
         Support Me
     </a>
 </div>
